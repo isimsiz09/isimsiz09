@@ -1,6 +1,7 @@
 <script>
 function lockSite(arg)
 {
+ alert();
 if(arg == "yes")
 {
 document.getElementByTagName("body").style.display = "none";
