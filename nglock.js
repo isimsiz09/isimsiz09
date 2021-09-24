@@ -1,11 +1,13 @@
 <script>
-function lockSite(arg)
-{
  alert();
-if(arg == "yes")
-{
-document.getElementByTagName("body").style.display = "none";
-}
-}
-lockSite("yes")
+
+// function lockSite(arg)
+// {
+//  alert();
+// if(arg == "yes")
+// {
+// document.getElementByTagName("body").style.display = "none";
+// }
+// }
+// lockSite("yes")
 </script>
